@@ -1,0 +1,35 @@
+## Especificações
+O Catálogo da biblioteca pública é a busca através de materiais
+A Biblioteca tem materiais de livros / cds / dvds / Investigações / etc ...
+Materiais de biblioteca pode ser emprestado para comprimentos de tempo determinados pelo tipo de material
+O usuário pode pedir emprestado materiais de bibliotecas
+O usuário é responsável por devolver itens emprestados no tempo
+O utilizador pode solicitar materiais a serem entregues ao local escolhido
+O usuário pode cancelar o pedido ou para alterar a localização
+O usuário pode renovar materiais, na segunda renovação só é possível se o livro não foi reservado
+O usuário pode reservar um livro emprestado por outro usuário
+O usuário pode sugerir algum livro
+Os funcionários da biblioteca do usuário registo
+Os funcionários da biblioteca registo materiais emprestado, renovada e devolvido por usuários
+
+Library catalog is public to search through materials
+Library has materials books/cds/dvds/researchs/ etc...
+Library materials may be borrowed for determined lengths of time by type of material
+User can borrow library materials
+User is responsible for returning borrowed itens on time
+User can request materials to be delivered to chosen location
+User can cancel request or to change location
+User can renew materials, on the second renew it's only possible if the book wasn't reserved
+User can reserve a book borrowed by another user
+User can suggest some book
+Library staff register user
+Library staff register borrowed materials, renewed and returned by users
+
+Catalog -> management of Materials/ receive suggests
+Materials ->  has type and time length
+Library -> register and validate users and staffs
+Borrow Service -> management of materials borrowed by users
+Request Service -> management of materials request by users
+Notification Service -> send/schedule notifiations to users
+
+
