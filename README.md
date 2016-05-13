@@ -1,2 +1,2 @@
 # architecture-layered_library-example
-A layered architecture proposal of a project using DDD and TDD in .Net. The example chosen to demonstrate the implementation was a library.
+A proposed layered architecture using DDD and TDD demonstrated through the implementation of borrowing management library system.
